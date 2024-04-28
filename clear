@@ -1,8 +1,1 @@
-user.email=hanypatel1603@gmail.com
-user.name=Hani-3
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-credential.https://github.com.helper=
-credential.https://github.com.helper=!/usr/bin/gh auth git-credential
+
