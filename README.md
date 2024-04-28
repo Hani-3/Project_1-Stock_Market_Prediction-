@@ -40,7 +40,7 @@ The process of feature selection revealed the importance of certain variables su
 ### Model Performance: 
 Both logistic regression and random forest classifier exhibited promising performance in predicting future stock values. The accuracy scores obtained from these models indicate their capability to make accurate predictions based on the selected features.
 
-### Explanations for Chosen Predictive Models:
+## Explanations for Chosen Predictive Models:
 
 ### Logistic Regression: 
 Logistic regression was chosen for its simplicity, interpretability, and efficiency in binary classification tasks. It models the probability of a binary outcome based on one or more predictor variables, making it suitable for predicting stock price movements (e.g., increase or decrease).
